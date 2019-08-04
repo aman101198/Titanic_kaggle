@@ -1,3 +1,4 @@
-The Dataset used in this is available on kaggle. The name of the Dataset is train.csv
+The Dataset used in this is available on kaggle. The train.csv is split into train and test dataset and two classification techniques namely Random Forest and Logistic Regression is used to predict the results.
+Logistic Regression is seems to be more accurate in this case.
 Here is a link to the dataset
 https://www.kaggle.com/c/titanic/data
